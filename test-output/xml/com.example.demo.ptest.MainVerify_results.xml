@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="D:/workofstudy/demo"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="28.799">
+  <properties />
+  
+  
+            <testcase name="testApp" time="0.001" classname="com.example.demo.ptest.MainVerify" />
+                <testcase name="testApp" time="28.798" classname="com.example.demo.ptest.MainVerify" />
+      
+</testsuite>
